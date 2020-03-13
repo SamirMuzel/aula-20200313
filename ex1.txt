@@ -1,4 +1,4 @@
 Linha 1
 Linha 2
 Linha 3
-Editar pelo próprio GITHUB
+Editando pelo próprio GITHUB
